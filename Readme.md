@@ -39,6 +39,6 @@ Install dependencies using pip:
 
 **Enter the API key and organisational ID of your chatGPT by sigining up to the chatGPT** 
 
-**Store it to .env file created **
+**Store it to .env file created**
 
 
