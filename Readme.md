@@ -10,34 +10,35 @@ then run
 
 Install dependencies using pip:
 
-pip install speechrecognition
+1. pip install speechrecognition
 
-pip install wikipedia
+2. pip install wikipedia
 
-pip install pyttsx3
+3. pip install pyttsx3
 
-pip install keyboard
+4. pip install keyboard
 
-pip install wikipedia
+5. pip install wikipedia
 
-pip install python-dotenv
+6. pip install python-dotenv
 
-pip install wolframalpha
+7. pip install wolframalpha
 
-pip install contextlib
+8. pip install contextlib
 
-pip install pygame
+9. pip install pygame
 
-pip install webbrowser
+10. pip install webbrowser
 
-pip install openai
+11. pip install openai
 
-pip install pyaudio
+12. pip install pyaudio
 
 # If using google cloud text-to-speech
-pip3 install --user --upgrade google-cloud-texttospeech
+13. pip3 install --user --upgrade google-cloud-texttospeech
 
 **Enter the API key and organisational ID of your chatGPT by sigining up to the chatGPT** 
+
 **Store it to .env file created **
 
 
