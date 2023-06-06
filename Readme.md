@@ -38,6 +38,6 @@ pip install pyaudio
 pip3 install --user --upgrade google-cloud-texttospeech
 
 **Enter the API key and organisational ID of your chatGPT by sigining up to the chatGPT** 
-
+**Store it to .env file created **
 
 
