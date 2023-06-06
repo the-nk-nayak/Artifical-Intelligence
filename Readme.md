@@ -37,4 +37,7 @@ pip install pyaudio
 # If using google cloud text-to-speech
 pip3 install --user --upgrade google-cloud-texttospeech
 
-Follow the instructions on the Google cloud site or the channel video to setup authentication and enable the API
+**Enter the API key and organisational ID of your chatGPT by sigining up to the chatGPT** 
+
+
+
